@@ -1,0 +1,6 @@
+# 合并和压缩文件
+build
+
+# npm模块安装目录
+node_modules
+
