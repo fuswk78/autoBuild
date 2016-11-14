@@ -1,0 +1,6 @@
+﻿# 合并和压缩文件
+dist
+
+# npm模块安装目录
+node_modules
+
